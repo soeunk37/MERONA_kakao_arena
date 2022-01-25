@@ -9,3 +9,7 @@
   - **Recall@3000** : 0.01782
 
 ## 2. 태그
+- Word2Vec을 활용한 제목 유사도 산출
+- 데이터 set: https://drive.google.com/file/d/1W4YxUvBYxfTeV9kgO46AwZleaod0Hmdi/view?usp=sharing
+- 결과
+  - **Recall@3000** : 0.05491
